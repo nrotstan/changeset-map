@@ -157,6 +157,9 @@
   font-weight: bold;
   color: #444;
 }
+.cmap-container .cmap-table-head span.cmap-subheader-label {
+  font-weight: normal;
+}
 .cmap-container .cmap-diff-table,
 .cmap-container .cmap-diff-table th,
 .cmap-container .cmap-diff-table td {
